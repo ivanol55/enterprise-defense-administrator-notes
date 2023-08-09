@@ -5,4 +5,4 @@ The aim for these notes kept in this repository serve the purpose of teaching yo
 ## Quick access to categories
 1. [Secure engineering fundamentals: introduction to security engineering](https://github.com/ivanol55/enterprise-defense-administrator-notes/blob/main/introduction-security-engineering-change-management/security-engineering/)
 2. [Secure engineering fundamentals: introduction to change management](https://github.com/ivanol55/enterprise-defense-administrator-notes/blob/main/introduction-security-engineering-change-management/change-management/)
-3. [Secure engineering fundamentals: introduction to ccybersecurity hardening](https://github.com/ivanol55/enterprise-defense-administrator-notes/blob/main/introduction-cyber-security-hardening/security-hardening/)
+3. [Secure engineering fundamentals: introduction to cybersecurity hardening](https://github.com/ivanol55/enterprise-defense-administrator-notes/blob/main/introduction-cyber-security-hardening/security-hardening/)
