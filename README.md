@@ -10,5 +10,3 @@ The aim for these notes kept in this repository serve the purpose of teaching yo
 5. [Secure engineering fundamentals: introduction to identity and access management](https://github.com/ivanol55/enterprise-defense-administrator-notes/blob/main/secure-engineering-fundamentals/introduction-identity-access-management/)
 6. [Governance, risk and compliance: Introduction to vulnerability management](https://github.com/ivanol55/enterprise-defense-administrator-notes/blob/main/governance-risk-compliance/introduction-vulnerability-management/)
 7. [Governance, risk and compliance: Introduction to security and risk management](https://github.com/ivanol55/enterprise-defense-administrator-notes/blob/main/governance-risk-compliance/introduction-security-risk-management/)
-8. [Security administration: Perimeter and network security engineering](https://github.com/ivanol55/enterprise-defense-administrator-notes/blob/main/security-administration/perimeter-network-security-engineering/)
-9. [Security administration: Secure architecture design](https://github.com/ivanol55/enterprise-defense-administrator-notes/blob/main/security-administration/secure-architecture-design/)
